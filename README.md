@@ -10,8 +10,6 @@ Code/
     Q1.py
     linearX.csv
     linearY.csv
-    grad_desc.jpg
-    Hypothesis.png
   q2/  # Polynomial Regression
     Q2.py
   q3/  # Logistic Regression
