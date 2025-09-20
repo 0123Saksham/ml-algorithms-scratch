@@ -78,4 +78,4 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ## Contact
 
-For questions or collaboration, please contact Saksham Kumar at [Sakshamkumar0123@gmail.com]
+For questions or collaboration, please contact Saksham Kumar at [Email](mailto:Sakshamkumar0123@gmail.com)
